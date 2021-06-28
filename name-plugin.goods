@@ -1,0 +1,10 @@
+{
+    "name": "Plugin Name",
+    "git": {
+        "url": "https://github.com/ChatTheatre/name-plugin",
+        "branch": "main"
+    },
+    "paths": {
+        "skoot/data/vault": "data/vault"
+    }
+}
